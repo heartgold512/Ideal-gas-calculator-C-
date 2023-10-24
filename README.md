@@ -2,7 +2,9 @@
 c++ ideal gas calculator which allows calculation of values PV= NRT in kelvin
 ALLOWS EXITING OF PROGRAM AS WELL AS USER INPUTTING AND OPTIONS
 also some nice ascii art along with the program and an "option map" this is just a rough calculator it's unfinished
-but it works alright and ill be updating it in the future.   On top of this i didnt actually see any c++ rep's for this so another reason why is This for me was just to automate any college work for physics 
+but it works alright and ill be updating it in the future.   On top of this i didnt actually see any c++ rep's for this so another reason why is This for me was just to automate any college work for physics.
+
+THERE  IS SO SO MUCH BETTER WAYS TO WRITE THIS...like all the include statments al the dead functions which arent even used etc
 
 
 -----
