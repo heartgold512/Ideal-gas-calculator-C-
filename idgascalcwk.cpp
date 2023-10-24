@@ -247,7 +247,6 @@ int main() {
 	//ver1.01--> std::count "allowed formats AND PRINT THEM add this as an option also"
 
 	//add break functionality if the user wishes to quit Ver 1.0
-    //man i hate living
 	//version 1.2-->{
 
 	 //eq2 : eq1 }; //i think this is the wrong way round implement inheritance in some way
